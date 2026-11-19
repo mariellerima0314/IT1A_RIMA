@@ -78,4 +78,7 @@ while True:
         print("Total fare today:", total)
         break
 
+    else:
+        print("Invalid Choice")
+
     
